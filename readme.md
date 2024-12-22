@@ -8,6 +8,6 @@
 git clone https://github.com/KryvkoSergii/goit-pythonweb-hw-02.git
 docker-compose up
 ```
-Перейдіть за [посиланням](http:\\localhost:8000)
+Перейдіть за [посиланням](http://localhost:8000)
 
 ![результат](image.png)
